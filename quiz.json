@@ -1,0 +1,107 @@
+[
+    {
+        "question": "Q1- What vitamin is primarily synthesized when the skin is exposed to sunlight?",
+        "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+        "correct_answer": 3,
+        "category": "Nutrition",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Q2- Which exercise is best for developing leg strength?",
+        "options": ["Push-ups", "Squats", "Pull-ups", "Crunches"],
+        "correct_answer": 1,
+        "category": "Workout",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Q3- What nutrient helps the body absorb calcium effectively?",
+        "options": ["Vitamin K", "Vitamin D", "Iron", "Magnesium"],
+        "correct_answer": 1,
+        "category": "Nutrition",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Q4- How many hours of sleep are recommended for muscle recovery?",
+        "options": ["3-4 hours", "5-6 hours", "7-9 hours", "10-12 hours"],
+        "correct_answer": 2,
+        "category": "Workout",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Q5- Which of these exercises is considered a full-body movement?",
+        "options": ["Leg Curl", "Bicep Curl", "Burpees", "Calf Raise"],
+        "correct_answer": 2,
+        "category": "Workout",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Q6- What training technique involves short bursts of intense activity followed by rest?",
+        "options": ["HIIT", "Steady-state cardio", "Plyometrics", "Powerlifting"],
+        "correct_answer": 0,
+        "category": "Training",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Q7- What is the main role of carbohydrates in fitness nutrition?",
+        "options": ["Build muscle", "Repair tissue", "Provide energy", "Boost immunity"],
+        "correct_answer": 2,
+        "category": "Nutrition",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Q8- How much protein does a strength athlete typically require (g/kg body weight)?",
+        "options": ["0.8 g/kg", "1.2 g/kg", "1.6-2.2 g/kg", "3.0 g/kg"],
+        "correct_answer": 2,
+        "category": "Nutrition",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Q9- What is a common symptom of dehydration during exercise?",
+        "options": ["Increased focus", "Improved performance", "Muscle cramps", "Lower heart rate"],
+        "correct_answer": 2,
+        "category": "Training",
+        "difficulty": "Hard"
+    },
+    {
+        "question": "Q10- Why is a warm-up important before working out?",
+        "options": ["Builds muscle", "Prevents soreness", "Increases blood flow to muscles", "Burns more calories"],
+        "correct_answer": 2,
+        "category": "Training",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Q11- What is the main benefit of core strengthening exercises?",
+        "options": ["Bigger arms", "Better posture and stability", "Improved breathing", "Faster digestion"],
+        "correct_answer": 1,
+        "category": "Workout",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Q12- What should a cool-down include after intense exercise?",
+        "options": ["Heavy lifting", "Stretching and light activity", "Cardio sprints", "Protein shake"],
+        "correct_answer": 1,
+        "category": "Training",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Q13- Which of these foods is rich in omega-3 fatty acids?",
+        "options": ["Butter", "Salmon", "White rice", "Cheese"],
+        "correct_answer": 1,
+        "category": "Nutrition",
+        "difficulty": "Easy"
+    },
+    {
+        "question": "Q14- Why is stretching after a workout helpful?",
+        "options": ["Causes fatigue", "Improves flexibility and recovery", "Increases blood pressure", "Builds muscle mass"],
+        "correct_answer": 1,
+        "category": "Training",
+        "difficulty": "Medium"
+    },
+    {
+        "question": "Q15- Which of the following is an aerobic exercise?",
+        "options": ["Jump rope", "Deadlift", "Push-up", "Bench press"],
+        "correct_answer": 0,
+        "category": "Workout",
+        "difficulty": "Easy"
+    }
+]
